@@ -44,7 +44,7 @@
 
 ## :dart: Sobre ##
 
-Este é um projeto simples, onde foi criado um formulário para praticar meus conhecimentos em HTML e CSS, com base no desafio proposto pela Rocketseat [Desafios - HTML](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229), com o desafio realizado com base no [repositório](https://github.com/MarcosGuilherm/Desafios-HTML) me desafiei a criar um fomulário melhor onde criei a sua estilização com algumas inspirações e ainda conseguir adicionar um pouco de responsividade. Para acessar a demonstração do projeto [clique aqui](https://marcosguilherm.github.io/Formulario/)
+Este é um projeto simples, onde foi criado um formulário para praticar meus conhecimentos em HTML e CSS, com base no desafio proposto pela Rocketseat [Desafios - HTML](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229), com o desafio realizado com base no [repositório](https://github.com/MarcosGuilherm/Desafios-HTML) me desafiei a criar um fomulário melhor onde criei a sua estilização com algumas inspirações e ainda conseguir adicionar um pouco de responsividade. Para acessar a demonstração do projeto [clique aqui](https://guiurodrigues.github.io/Formulario/)
 
 ## :sparkles: Funcionalidades ##
 
