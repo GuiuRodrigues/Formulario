@@ -7,7 +7,7 @@
   <!-- <a href="https://formulario.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Formulario</h1>
+<h1 align="center">Formulário</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/MarcosGuilherm/formulario?color=56BEB8">
@@ -44,7 +44,7 @@
 
 ## :dart: Sobre ##
 
-Este é um projeto simples, onde foi criado um formulário para praticar meus conhecimentos em HTML e CSS, com base no desafio proposto pela Rocketseat [Desafios - HTML](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229), com o desafio realizado com base no [repositório](https://github.com/MarcosGuilherm/Desafios-HTML) me desafiei a criar um fomulário melhor onde criei a sua estilização com algumas inspirações e ainda conseguir adicionar um pouco de responsividade. Para acessar a demonstração do projeto [clique aqui](https://guiurodrigues.github.io/Formulario/)
+Este é um projeto simples, onde foi criado um formulário para praticar meus conhecimentos em HTML e CSS, com base no desafio proposto pela Rocketseat [Desafios - HTML](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229), com o desafio realizado com base no [repositório](https://github.com/MarcosGuilherm/Desafios-HTML) me desafiei a criar um fomulário melhor onde criei a sua estilização com algumas inspirações e ainda conseguir adicionar um pouco de responsividade. Para acessar a demonstração do projeto [clique aqui](https://guiurodrigues.github.io/Formulario/).
 
 ## :sparkles: Funcionalidades ##
 
@@ -58,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré-requisitos ##
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com)  instalado em sua maquina.
 
